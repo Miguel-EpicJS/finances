@@ -58,7 +58,7 @@ src/
 
 4. Run your first CLI tool:
    ```bash
-   python cli/portfolio_manager.py
+   python cli/investments_calculator.py
    ```
 
 ---
