@@ -26,7 +26,7 @@ Welcome to **Finance Management Tools**! This repository is dedicated to creatin
 ## 📂 Project Structure
 
 ```
-finance/src/
+src/
 ├── cli/              # CLI tools for financial management
 ├── gui/              # GUI applications for visual finance tracking
 ├── api/              # APIs for financial data and analytics
