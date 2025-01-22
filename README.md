@@ -51,7 +51,7 @@ src/
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install dependencies:
+3. Install dependencies (Also [tkinter](https://docs.python.org/3/library/tkinter.html) is needed for GUI):
    ```bash
    pip install -r requirements.txt
    ```
